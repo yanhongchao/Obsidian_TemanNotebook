@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772259313333-oj5kxw4ch",
+  "title": "Identify agent capabilities",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772259313335,
+  "updatedAt": 1772412606299,
+  "lastResponseAt": 1772412606299,
+  "sessionId": "b9390f8c-7b67-42ef-90e5-ab1a1ad218d1",
+  "sdkSessionId": "b9390f8c-7b67-42ef-90e5-ab1a1ad218d1",
+  "currentNote": "CBET/组织架构.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

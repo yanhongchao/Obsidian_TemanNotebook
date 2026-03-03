@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772416129774-1hmb3srow",
+  "title": "Organize IATF16949 Chinese document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772416129776,
+  "updatedAt": 1772416291187,
+  "lastResponseAt": 1772416291187,
+  "sessionId": "a7aa4c19-3aa6-4580-b266-d80851b53218",
+  "sdkSessionId": "a7aa4c19-3aa6-4580-b266-d80851b53218",
+  "currentNote": "CBET/IATF16949.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
