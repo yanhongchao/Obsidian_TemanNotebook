@@ -41,10 +41,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CBET/PDF/车用空调系统故障判断.pdf"
+                "file": "CBET/PDF/E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "车用空调系统故障判断"
+              "title": "E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120"
             }
           }
         ],
@@ -235,6 +235,7 @@
   "active": "0c289c1614bebe37",
   "lastOpenFiles": [
     "CBET/PDF/车用空调系统故障判断.pdf",
+    "CBET/PDF/E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120.pdf",
     "未命名.md",
     "CBET/PDF/汽车空调压缩机培训（一）：压缩机概述.pptx",
     "CBET/PDF/汽车空调压缩机培训（三）：销售.pptx",
