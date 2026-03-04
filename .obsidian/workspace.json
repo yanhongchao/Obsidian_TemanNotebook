@@ -25,30 +25,32 @@
             "id": "d1e5090841e09392",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CBET/汽车零部件领域术语.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "汽车零部件领域术语"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
             "id": "0c289c1614bebe37",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CBET/PDF/E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120.pdf"
+                "file": "CBET/账号信息.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120"
+              "icon": "lucide-file",
+              "title": "账号信息"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +234,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c289c1614bebe37",
+  "active": "d1e5090841e09392",
   "lastOpenFiles": [
-    "CBET/PDF/车用空调系统故障判断.pdf",
+    "CBET/汽车空调压缩机培训（二）装配技术.md",
+    "CBET/汽车空调压缩机培训（三）销售.md",
+    "CBET/汽车空调压缩机培训（一）压缩机概述.md",
+    "CBET/汽车零部件领域术语.md",
+    "CBET/账号信息.md",
+    "CBET/组织架构.md",
+    "CBET/CLAUDE.md",
+    "CBET/IATF16949.md",
     "CBET/PDF/E0X项目集成式电动压缩机总成工程技术要求-V1.0-20260120.pdf",
+    "CBET/PDF/车用空调系统故障判断.pdf",
     "未命名.md",
     "CBET/PDF/汽车空调压缩机培训（一）：压缩机概述.pptx",
     "CBET/PDF/汽车空调压缩机培训（三）：销售.pptx",
@@ -244,16 +254,11 @@
     "CBET/未命名文件夹",
     "未命名",
     "车用空调系统故障判断.pdf",
-    "CBET/账号信息.md",
-    "CBET/组织架构.md",
-    "CBET/IATF16949.md",
-    "CBET/汽车零部件领域术语.md",
     "欢迎.md",
     "CBET/产销会.md",
     "CBET/质量模块问题.md",
     "创建链接.md",
     "未命名 2.base",
-    "未命名 1.base",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名.canvas"
